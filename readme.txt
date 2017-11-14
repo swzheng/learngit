@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 Git test fourth time.
 Git test fifth time.
 Git tracks changes.
+GitHub connect with local repository!
